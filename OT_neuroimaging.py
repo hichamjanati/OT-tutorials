@@ -15,7 +15,8 @@
 #
 # To do so, run in a Terminal:
 #
-# `pip install mne nilearn pot numba`
+# `pip install mne nilearn numba`
+# `pip install git+https://github.com/rflamary/POT.git`
 #
 
 # In[1]:
